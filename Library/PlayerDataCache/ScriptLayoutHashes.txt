@@ -1,0 +1,18 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/Madroad/AppData/Local/Temp/DefaultCompany/Madroad_world/customscene.vrcw
+SceneListBegin?
+Assets/Madroads_home.unity
+SceneListEnd?
+ed2f55581dee6a32311eddab9a27bfcd Assembly-CSharp.dll:VRC.Core.VRCPipelineManager
+12f8e90872dd6d0a61309de3a260758b VRCSDK2.dll:VRCSDK2.VRC_AvatarPedestal
+76626e9194b1b49806454cbf67a33263 VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+2519821e5d362030fbac9c8e222ea2c6 VRCSDK2.dll:VRCSDK2.VRC_MirrorReflection
+53a83fce1454f88bc808138f420c86ff VRCSDK2.dll:VRCSDK2.VRC_ObjectSync
+c794cf5fa4919c876905062358a1467d VRCSDK2.dll:VRCSDK2.VRC_Pickup
+61a77f557ee61f775cf2c4a62311536b VRCSDK2.dll:VRCSDK2.VRC_PlayerMods
+03280f1ae5f02bf306f43f2d54978fcd VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
+05688ba35204434725d66d336ae00e41 VRCSDK2.dll:VRCSDK2.VRC_Station
+4a280e79c5a035824f0c0aabcae1232f VRCSDK2.dll:VRCSDK2.VRC_Trigger
+11cfe7168aa6529698067293b6060683 VRCSDK2.dll:VRCSDK2.VRC_VideoScreen
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SnailMarkerAnimationCreator
